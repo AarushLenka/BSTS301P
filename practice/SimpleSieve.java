@@ -36,6 +36,6 @@ public class SimpleSieve {
         else {
             System.err.println("Please enter number greater than 2");
         }
-        scanner.close()
+        scanner.close();
     }
 }
